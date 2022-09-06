@@ -1,5 +1,5 @@
 ### Olá! 👋
-Eu sou o Samuel Zezilia, criadora de conteúdo de programação e tecnologia! 
+Eu sou o Samuel Zezilia, espero que goste do meu perfil!
 
 
 - 🔭 Atualmente trabalho com front-end
