@@ -2,8 +2,7 @@
 Eu sou o Samuel Zezilia, espero que goste do meu perfil!
 
 
-- 🔭 Atualmente trabalho com front-end
-- 🌱 Estudando JavaScript
+- 🔭 Atualmente trabalho com desenvolvimento FullStack
 
 <div align="center">
   <a href="https://github.com/websam2">
